@@ -7,3 +7,10 @@
   margin: 0;
   padding: 0;
 }
+
+:root {
+  --color-background: #030207;
+  --color-white: #fff;
+  --color-blue: #1474b4;
+
+}
