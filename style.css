@@ -19,3 +19,7 @@ body {
   background-color: var(--color-background);
   color: var(--color-white)
 } 
+
+a {
+  color: var(--color-blue)
+}
