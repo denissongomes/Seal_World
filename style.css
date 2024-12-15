@@ -14,3 +14,8 @@
   --color-blue: #1474b4;
 
 }
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-white)
+} 
